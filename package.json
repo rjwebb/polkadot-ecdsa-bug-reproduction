@@ -1,0 +1,17 @@
+{
+  "name": "polkadot-ecdsa-bug-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/keyring": "^12.6.1",
+    "@polkadot/util": "^12.6.1",
+    "@polkadot/util-crypto": "^12.6.1"
+  }
+}
